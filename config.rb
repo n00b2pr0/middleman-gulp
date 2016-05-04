@@ -4,7 +4,7 @@ set :css_dir, "stylesheets"
 set :js_dir, "javascripts"
 set :images_dir, "images"
 set :relative_links, true
-set :haml, { ugly: true, format: :html5 }
+set :slim, { ugly: true, format: :html }
 
 page "/*.xml", layout: false
 page "/*.json", layout: false

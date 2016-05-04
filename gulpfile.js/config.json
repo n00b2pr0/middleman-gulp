@@ -45,7 +45,7 @@
       "src": "./",
       "dest": "./",
       "htmlmin": {},
-      "extensions": ["html", "erb", "haml"],
+      "extensions": ["html", "erb", "slim"],
       "excludeFolders": ["images", "javascripts", "stylesheets"]
     },
 

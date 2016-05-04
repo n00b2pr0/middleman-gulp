@@ -6,6 +6,9 @@ gem "middleman-minify-html", "~> 3.4"
 # https://rubygems.org/gems/sassc
 gem "sassc", "~> 1.8"
 
+# https://rubygems.org/gems/slim
+gem "slim", "~> 3.0"
+
 # See http://bourbon.io/ for installation instructions
 # gem "bourbon", "~> 4.2"
 # gem "neat", "~> 1.7"
